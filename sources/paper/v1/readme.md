@@ -2,8 +2,6 @@
 <img width="100%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/header.png?raw=true" />
 <p>
 
-<p>&nbsp;</p>
-
 <h1 align="center">
 Paper Title
 </h1>
