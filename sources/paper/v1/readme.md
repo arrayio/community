@@ -26,4 +26,4 @@ Complete document description that provide full and exhaustive information about
 ## License
 
 LicenseName. Array.io, 2018.
- <img width="2%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/footer.png?raw=true" /> 
+ <img width="100%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/footer.png?raw=true" /> 
