@@ -15,7 +15,7 @@ Paper Title
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## Table of Contents <img width="2%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/header.png?raw=true" />
+## Table of Contents<img width="2%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/header.png?raw=true" />
 
 * [About](#about)
 
