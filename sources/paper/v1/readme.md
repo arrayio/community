@@ -15,15 +15,15 @@ Paper Title
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## Table of Contents 
+## <img width="100%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/dot.png?raw=true" /> Table of Contents 
 
 * [About](#about)
 
-## <img width="100%" https://github.com/arrayio/community/blob/master/sources/paper/v1/dot.png?raw=true" /> About
+## <img width="100%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/dot.png?raw=true" />  About
 
 Complete document description that provide full and exhaustive information about what it's actually about.
 
-## License
+## <img width="100%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/dot.png?raw=true" /> License
 
 LicenseName. Array.io, 2018.
  <img width="100%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/footer.png?raw=true" /> 
