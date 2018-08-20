@@ -23,6 +23,8 @@ Paper Title
 
 Complete document description that provide full and exhaustive information about what it's actually about.
 
-## <img width="2%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/Oversimplified_version.png?raw=true" /> License
+## License
 
 LicenseName. Array.io, 2018.
+
+<img width="2%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/footer.png?raw=true" /> 
