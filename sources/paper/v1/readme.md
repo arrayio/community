@@ -19,7 +19,7 @@ Paper Title
 
 * [About](#about)
 
-## <img width="2%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/dot.png?raw=true" />  About
+## <img width="2%" src="https://github.com/arrayio/community/blob/master/sources/paper/v1/dot%2038x38.png?raw=true" />  About
 
 Complete document description that provide full and exhaustive information about what it's actually about.
 
